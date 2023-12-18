@@ -53,3 +53,9 @@ About how many terrestrial (Earth) days exist in a Martian year? To answer this 
 Consider how many days elapse on Earth in the time that Mars circles the Sun once.
 Visually estimate the result by plotting the daily minimum temperature.
 Export the DataFrame to a CSV file.
+
+# Sources
+
+Used ChatGPT
+
+Forumla for Looping through and creating a list of rows: https://github.com/zachaa/web-scraping-challenge/blob/master/part_2_mars_weather.ipynb
